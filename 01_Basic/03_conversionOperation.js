@@ -28,6 +28,7 @@ let stringNumber = String(someNumber)
 // console.log(typeof stringNumber);
 // console.log(stringNumber);
 
+
 // *********************** Operations ***********************
 
 let value = 3
